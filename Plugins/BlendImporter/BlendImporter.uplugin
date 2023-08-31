@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 7,
+	"VersionName": "1.5",
+	"FriendlyName": "Blend File Importer",
+	"Description": "An importer for .blend 3D models.",
+	"Category": "Importers",
+	"CreatedBy": "nuclearfriend",
+	"CreatedByURL": "https://twitter.com/nuclearfriend",
+	"DocsURL": "https://jonmurphy.notion.site/Blend-File-Importer-Plugin-897316df448d46528c28126874a8f40e",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/348ff3dbb80f491cad0d329753529b5e",
+	"SupportURL": "https://discord.gg/wZvJbhh96Z",
+	"EngineVersion": "5.1.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "BlendImporter",
+			"Type": "Editor",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	]
+}
